@@ -21,4 +21,3 @@ Para executar o programa, execute os seguintes comandos no terminal:
     javac Escalonador.java
     java Escalonador.java
     
-**Obs.:** Para o funcionamento correto do programa, deve haver uma pasta `programas` no mesmo diretório do aplicativo, que deve conter os devidos processos a serem gerenciados.
